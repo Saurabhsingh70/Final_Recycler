@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Recycler Final</string>
+    <string name="contentDescription">Desc</string>
+    <string-array name="dec_tet">
+        <item>Alanine hjcbwwbdweb cb ewuibe     wefu ewfefb webwef weiobewf ewbf oiwfwriie eroi</item>
+        <item>Alanine hjcbwwbdweb cb ewuibe     wefu ewfefb webwef weiobewf ewbf oiwfwriie eroi</item>
+        <item>Asparagine</item>
+        <item>Aspartic Acid</item>
+        <item>Cysteine</item>
+        <item>Glutamic Acid</item>
+        <item>Glutamine</item>
+        <item>Glyccine</item>
+        <item>Histidine</item>
+        <item>Isoleucine</item>
+
+
+    </string-array>
+    <string-array name="amino_acids_full_txt">
+        <item>Alanine</item>
+        <item>Arginie</item>
+        <item>Asparagine</item>
+        <item>Aspartic Acid</item>
+        <item>Cysteine</item>
+        <item>Glutamic Acid</item>
+        <item>Glutamine</item>
+        <item>Glyccine</item>
+        <item>Histidine</item>
+        <item>Isoleucine</item>
+    </string-array>
+    <string-array name="amino_acids_three_letter_txt">
+        <item>Ala</item>
+        <item>Ar</item>
+        <item>Asp</item>
+        <item>Cyc</item>
+        <item>Glu</item>
+        <item>Glut</item>
+        <item>Glu</item>
+        <item>His</item>
+        <item>Iso</item>
+        <item>last</item>
+    </string-array>
+    <string-array name="amino_acids_one_letter_txt">
+        <item>A</item>
+        <item>AB</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>E</item>
+        <item>G</item>
+        <item>H</item>
+
+    </string-array>
+</resources>
